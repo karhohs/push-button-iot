@@ -1,0 +1,9 @@
+numpy
+Adafruit-Blinka==0.3.2
+Adafruit-GPIO==1.0.3
+Adafruit-PureIO==0.2.3
+certifi==2018.8.24
+numpy==1.13.3
+rpi-ws281x==4.1.0
+RPi.GPIO==0.6.5
+spidev==3.2
